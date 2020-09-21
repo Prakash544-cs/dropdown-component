@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1600689690272" clover="3.2.0">
+  <project timestamp="1600689690273" name="All files">
+    <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="3" elements="19" coveredelements="11" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+    <file name="index.ts" path="D:\Orxe Application\BaseComponent\packages\dropdown\src\index.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="orxe-dropdown.ts" path="D:\Orxe Application\BaseComponent\packages\dropdown\src\orxe-dropdown.ts">
+      <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="3"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="57" count="0" type="stmt"/>
+      <line num="63" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

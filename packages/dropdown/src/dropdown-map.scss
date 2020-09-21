@@ -1,0 +1,13 @@
+:host {
+    --dropdown:var(--error);
+    --border-color: var( --secondary);
+    --default-border-color: var(--tertiary-text);
+    --label-font: var(--body-font-size);
+    --label-text: var(--secondary-text);
+    --default-border-color: var(--primary-text);
+    --disabled-border-color: var( --disabled-text);
+    --error-border-color: var( --error);
+    --input-font: var(  --input-font-size);
+    --input-text: var(--disabled-text);
+    --color: var(--neutral);
+}
